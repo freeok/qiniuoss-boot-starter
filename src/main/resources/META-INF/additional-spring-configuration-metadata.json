@@ -1,0 +1,30 @@
+{
+  "properties": [
+    {
+      "name": "com.example.enable",
+      "type": "java.lang.Boolean",
+      "defaultValue": true,
+      "description": "是否开启自定义starter功能."
+    },
+    {
+      "name": "com.example.accessKey",
+      "type": "java.lang.String",
+      "description": "your access key."
+    },
+    {
+      "name": "com.example.secretKey",
+      "type": "java.lang.String",
+      "description": "your secret key."
+    },
+    {
+      "name": "com.example.domain",
+      "type": "java.lang.String",
+      "description": "your domain."
+    },
+    {
+      "name": "com.example.bucket",
+      "type": "java.lang.String",
+      "description": "your bucket."
+    }
+  ]
+}
